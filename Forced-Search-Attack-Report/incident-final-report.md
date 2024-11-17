@@ -19,8 +19,12 @@ After the security team reviewed the associated web server logs, the cause of th
 
 ### Recommendations
 To prevent future recurrences, we are taking the following actions:
+
 ●	Perform routine vulnerability scans and penetration testing.
+
 ●	Implement the following access control mechanisms:
+
 ○	Implement allowlisting to allow access to a specified set of URLs and automatically block all requests outside of this URL range.
+
 ○	Ensure that only authenticated users are authorized access to content.
 
